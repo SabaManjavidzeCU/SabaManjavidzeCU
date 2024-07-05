@@ -1,14 +1,17 @@
 ## Main Profile
 
-<a href="https://github.com/sabamanjavidze">Saba Manjavidze</a>
+<a href="https://github.com/sabamanjavidze" style="display:flex; align-items:center;">
+<img src="https://avatars.githubusercontent.com/u/63154795?v=4" widht=30 style="margin-right:5px;border-radius:100%" height=30 alt="my other profile picture"/>
+Saba Manjavidze
+</a>
 
 ## Interests/Hobbies
 
-*   gym
-*   boxing
-*   coding
-*   billiard
-*   vim enthusiast
+*   gym 🏋🏽🔥💪🏼🎧
+*   boxing 🥊👊🔥
+*   coding 👨🏻‍💻💡</>
+*   billiard 🎱+🔺
+*   vim enthusiast ⌨️⚡🥵
 
 
 ## Skills

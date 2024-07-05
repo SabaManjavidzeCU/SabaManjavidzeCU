@@ -2,6 +2,15 @@
 
 <a href="https://github.com/sabamanjavidze">Saba Manjavidze</a>
 
+## Interests/Hobbies
+
+*   gym
+*   boxing
+*   coding
+*   billiard
+*   vim enthusiast
+
+
 ## Skills
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3178C6)

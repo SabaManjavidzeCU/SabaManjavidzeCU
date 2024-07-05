@@ -1,5 +1,3 @@
-![Saba's GitHub Banner](./assets/saba.jpg)
-
 ## Main Profile
 
 <a href="https://github.com/sabamanjavidze">Saba Manjavidze</a>
